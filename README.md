@@ -1,1 +1,1 @@
-# Chillean_SummerSchool_Velocities
+# Chilean Summer School | ROck glacier velocities using RGDyn
